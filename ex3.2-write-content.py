@@ -1,4 +1,6 @@
 ############ WRITE CONTENT TO A FILE AFTER DELETE PREVIOUS CONTENT #####################
+# Command line: python test.py sample.txt
+# Must have sample.txt in the same folder with test.py
 from sys import argv
 pythonfile, tenfile = argv
 #OPEN FILE. COMMAND LINE MUST have two.
