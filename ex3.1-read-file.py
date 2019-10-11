@@ -1,3 +1,4 @@
+#ex 15 in book
 from sys import argv
 script,filename = argv
 txt = open(filename)
