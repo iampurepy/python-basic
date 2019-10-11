@@ -12,6 +12,7 @@ file_again = input(">")
 txt_again = open(file_again)
 print(txt_again.read())
 """
+-  read(): Reads the contents of the ﬁle. You can assign the result to a variable.
 1.Does txt = open(filename) return the contents of the ﬁle? No, it doesn’t. 
 It actually makes something called a FILE OBJECECT. You can think of a ﬁle like an old tape drive that you saw on
 mainframe computers in the 1950s or even like a DVD player from today. You can move around
