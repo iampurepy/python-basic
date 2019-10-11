@@ -1,4 +1,5 @@
 #ex 15 in book
+#Note: file sample.txt cần đọc phải nằm cùng thư mục với file test.py(script.py) này.
 from sys import argv
 script,filename = argv
 txt = open(filename)
