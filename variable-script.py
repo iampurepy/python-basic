@@ -3,6 +3,7 @@
 # being another name for your .py ﬁles)
 # Dung chuc nang Terminal cua Pycharm.
 # Notes: type command correct, never forget variables , ex:>python test.py apple orange grapefruit,apple orange grapefruid are variables
+# Type in command line, for example, python test.py hung tu giap
 from sys import argv
 print(argv)
 khong,mot,hai,ba =  argv
