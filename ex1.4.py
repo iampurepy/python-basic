@@ -1,8 +1,8 @@
 #REMMEMBER
 """
-a variable is nothing more than a name for something, similar to how my name,
-“Zed,” is a name for “the human who wrote this book.” Programmers use these variable names to make
-their code read more like English and because they have lousy memories. If they didn’t use good names
+a variable is a name for something, similar to YOUR name,
+“Zed,” is a name for “the human who wrote this book.” 
+variable names must to make code read more like English and because they have lousy memories. If they didn’t use good names
 for things in their software, they’d get lost when they tried to read their code again.
 """
 #Difference between = (single-equal) and == (double-equal)
