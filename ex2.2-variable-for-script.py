@@ -1,4 +1,5 @@
 ######################################## HOW TO PASS A VARIABLE TO A SCRIPT###########################################
+# ex 2.14 inside book
 # input method you can use to pass variables to a script (script
 # being another name for your .py ﬁles)
 # Dung chuc nang Terminal cua Pycharm.
