@@ -1,12 +1,11 @@
-######### HÀM ĐỌC MỘT FILE  ex20.py ###########
-"""
-"""
-from sys import argv
+######### HÀM ĐỌC MỘT FILE ex20.py books ###########
 
+from sys import argv
+pythonfile, filedata = argv
 # thủ tục khi cần đọc/ghi một file. Đây cũng là dòng xác định
 # số lượng biến cần truyền vào khi chạy lệnh terminal. Ở đây có 2 biến pythonpy và filedata
 # do đó khi dùng lệnh terminal phải có đủ 2 biến: python pythonpy.py(biến 1) filedata(biến 2)
-pythonpy, filedata = argv
+
 # Read all data inside file.
 def print_all(filename):
     print(filename.read())
