@@ -1,5 +1,6 @@
 ###Different ways we’re able to give the function the values###############
 """
+DÙNG TERMINAL python test.py để chạy code bên dưới. 
 1. We can give it straight numbers.
 2. We can give it variables.
 3. We can give it math.
