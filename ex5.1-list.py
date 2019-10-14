@@ -19,3 +19,8 @@ for i in range(0,6):
 for i in list_empty:
     print(f"Item of list_empty is: {i}")
     
+    
+    """
+    LIST tương đương Array trong một số ngôn ngữ khác
+    """
+    
