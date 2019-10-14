@@ -1,0 +1,29 @@
+########## Ý NGHĨA CỦA LIST TRONG LẬP TRÌNH ############################
+"""
+Bản chất của lập trình là bắt chước thực tế.
+That is all a list does, and this should give you a way to ﬁgure out concepts in programming. Every
+concept in programming usually has some relationship to the real world. At least, the useful ones do. If
+you can ﬁgure out what the analog in the real world is, then you can use that to ﬁgure out what the data
+structure should be able to do.
+
+1. List là một  data structure rất phổ biến trong lập trình.
+2. Data structure là một kiểu dữ liệu máy tính.
+What’s a data structure? If you think about it, a data structure is just a formal way to structure (organize)
+some data (facts). It really is that simple. Even though some data structures can get insanely complex,
+all they are is just a way to store facts inside a program so you can access them in different ways. They
+structure data.
+
+3.lists are one of the most common data structures programmers use. A list is
+an ordered list of things you want to store and access randomly or linearly by an index.
+
+KHI NÀO THÌ DÙNG:
+########################## When to Use Lists #####################################################
+You use a list whenever you have something that matches the list data structure’s useful features:
+1. If you need to maintain order. Remember, this is listed order, not sorted order. Lists do not sort
+for you.
+2. If you need to access the contents randomly by a number. Remember, this is using cardinal
+numbers starting at 0.
+3. If you need to go through the contents linearly (ﬁrst to last). Remember, that’s what for-loops
+are for.
+This is when you use a list.
+"""
