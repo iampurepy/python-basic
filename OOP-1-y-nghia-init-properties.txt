@@ -1,0 +1,15 @@
+__init__ is the reserved method in a class. It is called when the object for the class is created. It initializes the attributes(chính là properties) of the class.
+Như vậy: hàm _init_ là bắt buộc phải có và NHIỆM VỤ CỦA NÓ PHẢI LÀM KHỞI TẠO GIÁ TRỊ ĐẦU TIÊN CHO THUỘC TÍNH CỦA LỚP.
+
+LỚP CÓ BAO NHIÊU THUỘC TÍNH THÌ PHẢI KHỞI TẠO BẤY NHIÊU LẦN VỚI _init_(self, property1,…)
+
+Một lớp có bao nhiêu thuộc tính thì khi gán một đối tượng bằng LỚP thì cũng đồng thời phải ghi đầy đủ số lượng giá trị truyền cho lớp đó
+
+Ví dụ: class class_test():
+		_init_(self, x1,x2,….):
+		Self.x1 = a
+		Self.x2 = b….
+		
+		
+Sau đó ở một chỗ nào đó, x =class_test() là sai.Vì thiếu hai giá trị nữa truyền vào class_test()
+Sửa lại đúng là: x1 = class_test(giá-trị-1, giá-trị-2)
