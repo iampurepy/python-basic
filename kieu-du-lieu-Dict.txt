@@ -1,0 +1,20 @@
+########## Ý NGHĨA CỦA kiểu dữ liệu DICT TRONG Python ############################
+"""
+Mô hình của Dict_data = {key:value, key:value, key:value,...}
+
+1. Dict có thể coi như mở rộng hơn của List:
+    Mở rộng hơn ở khả năng truy cập. KHông chỉ truy cập quả chỉ số index(số nguyên) mà có thể
+    truy cập với chỉ số bất kỳ index(bất_kỳ)
+    Mở rộng hơn ở khả năng chứa: Dict có thể chứa bất kỳ kiểu dữ liệu nào bên trong nó, miễn là nó
+    có tính chất Bất biến (như vậy Dict không thể chứa List vì List thay đổi đc. Dict chứa string, interger
+    float,tuple,... ok vì 1 vẫn là 1,chữ A vẫn là chữ A....
+
+    Khóa trong dictionary phải là kiểu bất biến (immutable). Như vậy nó có thể là string, số, Tuple, ....
+    Một số kiểu không được phép, chẳng hạn List (Danh sách), vì List là kiểu dữ liệu biến đổi (mutable).
+
+    Các khóa KEY trong dictionary không được phép trùng lặp.
+    *Như vậy Key đóng vai trò phần tử truy cập - điều khiển của Dict.
+
+2.
+
+"""
