@@ -15,6 +15,9 @@ Mô hình của Dict_data = {key:value, key:value, key:value,...}
     Các khóa KEY trong dictionary không được phép trùng lặp.
     *Như vậy Key đóng vai trò phần tử truy cập - điều khiển của Dict.
 
-2.
+2. A dict in Python is just like a dictionary in the real world such as the Oxford English Dictionary.
+A dictionary is another example of a data structure, and, like a list, it is one of the most commonly used
+data structures in programming. A dictionary is used to MAP or ASSOCIATE things you want to store to keys
+you need to get them. 
 
 """
