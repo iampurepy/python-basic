@@ -1,7 +1,7 @@
 ########## Ý NGHĨA CỦA kiểu dữ liệu DICT TRONG Python ############################
+########## KHI NÀO DÙNG DICT - KHI NÀO DÙNG LIST #################################
 """
 Mô hình của Dict_data = {key:value, key:value, key:value,...}
-
 1. Dict có thể coi như mở rộng hơn của List:
     Mở rộng hơn ở khả năng truy cập. KHông chỉ truy cập quả chỉ số index(số nguyên) mà có thể
     truy cập với chỉ số bất kỳ index(bất_kỳ)
@@ -20,4 +20,16 @@ A dictionary is another example of a data structure, and, like a list, it is one
 data structures in programming. A dictionary is used to MAP or ASSOCIATE things you want to store to keys
 you need to get them. 
 
+3. What is the difference between a list and a dictionary? 
+A list is for an ordered list of items. 
+A dictionary (or dict) is for matching some items (called “keys”) to other items (called “values”).
+
+4. What would I use a dictionary for? 
+When you have to take one value and “look up” another value.
+In fact, you could call dictionaries “look up tables.”
+
+
+5.What would I use a list for?
+Use a list for any sequence of things that needs to be in order, and you
+only need to look them up by a numeric index.
 """
